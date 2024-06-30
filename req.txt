@@ -1,0 +1,5 @@
+langchain
+langchain-community
+redis
+llama-cpp-python
+fastapi uvicorn sse-starlette requests
